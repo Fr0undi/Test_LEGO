@@ -1,0 +1,4 @@
+beautifulsoup4==4.13.4
+bs4==0.0.2
+pydantic==2.11.7
+requests==2.32.4
